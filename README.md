@@ -17,4 +17,4 @@ first line
 
 все файлы .terraformrc и terraform.rc в директории 
 
-
+new line
